@@ -34,10 +34,10 @@ I enjoy designing systems that work anywhere — online or offline — and craft
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-juven-rios-burgue%C3%B1o-ab2378293/)
 [![GitHub](https://img.shields.io/badge/GitHub_Ports-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuvenR)
-[![Instagram](https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)](https://your-instagram-or-portfolio-url)
-[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://your-instagram-or-portfolio-url)
+[![Instagram](https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos.rb_/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/BlueLines/)
 
 
 **Or email me:** `CarlitosJuven@gmail.com`
