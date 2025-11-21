@@ -24,7 +24,7 @@ I enjoy designing systems that work anywhere — online or offline — and craft
   
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuvenR&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JuvenR&theme=tokyonight&hide_border=true&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JuvenR&theme=tokyonight&hide_border=true&mode=weekly)
 
 </div>
 
