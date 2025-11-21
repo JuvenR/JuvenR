@@ -8,7 +8,7 @@ I enjoy designing systems that work anywhere — online or offline — and craft
 
 - 🎓 I’m a Software Engineering student at **[ITSON](https://www.itson.mx)**, on track to graduate in May 2026.
   
-- ⚙️ My toolbox includes: `.java`, `.js`, `.kt`, `.py`, `.html`, `.css`, `.css`,`.rs`, plus strong familiarity with SQL & NoSQL databases, Git, and modern frameworks across backend, mobile, and frontend ecosystems.
+- ⚙️ My toolbox includes: `.java`, `.js`, `.kt`, `.py`, `.html`, `.css`,`.rs`, plus strong familiarity with SQL & NoSQL databases, Git, and modern frameworks across backend, mobile, and frontend ecosystems.
   
 - 🧠 I'm currently learning: Execution sandboxes in Rust, WASM runtimes, AI retrieval flows, and scalable architecture patterns — with a growing interest in how agile methodologies can be adapted effectively for very small engineering teams.
 - 💬 `ping` me about **Rust**, **systems design**, **architecture**, **offline-first engineering**, **RAG**, **Tauri**, **WASM**
