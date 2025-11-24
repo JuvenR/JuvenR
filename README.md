@@ -48,7 +48,7 @@ I enjoy designing systems that work anywhere — online or offline — and craft
 
 <div align="center">
 
-]]
+
 **From Mexico 🇲🇽🌮🔥🎉**
 
 </div>
