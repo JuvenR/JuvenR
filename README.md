@@ -48,9 +48,7 @@ I enjoy designing systems that work anywhere — online or offline — and craft
 
 <div align="center">
 
-### 💫 **Current Status:**  
-Shipping backend engines • Designing architectures • Getting dangerously good at Rust
-
+]]
 **From Mexico 🇲🇽🌮🔥🎉**
 
 </div>
