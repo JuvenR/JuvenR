@@ -2,7 +2,7 @@
 
 Software engineer focused on building **reliable backend systems, cloud-native integrations, and AI-powered tools that solve real problems**.
 
-I enjoy turning complex requirements into maintainable products — from enterprise integrations and telephony workflows to production-minded RAG systems with evaluation, observability, and real-world constraints.
+I enjoy turning complex requirements into maintainable products, from enterprise integrations and telephony workflows to production-minded RAG systems with evaluation, observability, and real-world constraints.
 
 - 🎓 I’m a Software Engineering student at **[ITSON](https://www.itson.mx)**, graduating in May 2026.
 
